@@ -1,6 +1,5 @@
 # Iris dataset analysis - Classification
 
-**Complete Video Tutorial:** https://youtu.be/pTjsr_0YWas
 
 # Dataset Information
 
